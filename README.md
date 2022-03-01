@@ -6,4 +6,6 @@
 
 [callback, promises, async-await](https://codesandbox.io/s/promises-neog-l03435?file=/src/index.js)
 
+[Functional Programming](https://codesandbox.io/s/functional-programming-neog-tbzjor?file=/src/index.js)
+
 [thinking in react - useState()]()
