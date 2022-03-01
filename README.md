@@ -4,6 +4,6 @@
 
 [async JS](https://codesandbox.io/s/fp-neog-practice-fgqo0c)
 
-[callback, promises, async-await]()
+[callback, promises, async-await](https://codesandbox.io/s/promises-neog-l03435?file=/src/index.js)
 
 [thinking in react - useState()]()
