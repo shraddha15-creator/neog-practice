@@ -10,4 +10,6 @@
 
 [thinking in react - useState()](https://codesandbox.io/s/thinking-in-react-neog-5xwqwp)
 
-[useEffect ](https://codesandbox.io/s/useeffect-neog-practice-br7zlc)
+[useEffect 1](https://codesandbox.io/s/useeffect-neog-practice-br7zlc)
+
+[useEffect: wishlist ex](https://codesandbox.io/s/useeffect-wishlist-exercise-neog-c6hn4z)
