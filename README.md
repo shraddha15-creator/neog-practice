@@ -18,6 +18,7 @@
 
 
 <hr />
+
 ## Exercises
 
 ## Thinking in React
