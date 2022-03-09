@@ -13,3 +13,5 @@
 [useEffect 1](https://codesandbox.io/s/useeffect-neog-practice-br7zlc)
 
 [useEffect: wishlist ex](https://codesandbox.io/s/useeffect-wishlist-exercise-neog-c6hn4z)
+
+[useContext: add to cart](https://codesandbox.io/s/adding-items-to-cart-usecontext-zhbsuy?file=/src/App.jsx)
