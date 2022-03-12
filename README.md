@@ -23,9 +23,9 @@
 
 ## Exercises
 
-## Thinking in React
+ 
 
-### useState()
+### *Thinking in React* : useState()
 
 [Twitter Counter](https://codesandbox.io/s/twitter-counter-wd8ep5?file=/src/App.js)
 
