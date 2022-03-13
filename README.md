@@ -38,6 +38,8 @@
 
 [Switch tabs](https://codesandbox.io/s/switch-tabs-usestate-ou5ho4?file=/src/styles.css)
 
+[Like Counter](https://codesandbox.io/s/like-counter-usestate-ps0p5e?file=/src/styles.css)
+
 
 ### useContext()
 
