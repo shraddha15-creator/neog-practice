@@ -33,6 +33,8 @@
 
 [Show Hide Password](https://codesandbox.io/s/show-hide-pw-usestate-jhi49d)
 
+[Switch tabs](https://codesandbox.io/s/switch-tabs-usestate-ou5ho4?file=/src/styles.css)
+
 
 ### useContext()
 
