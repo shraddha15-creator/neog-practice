@@ -22,6 +22,8 @@
 
 [*Custom Hook*: useAsync()](https://codesandbox.io/s/useasync-customhook-exercise-ukvj0y)
 
+[useReducer(): *counter*](https://codesandbox.io/s/counter-usereducer-w4ckyh)
+
 [react router](https://codesandbox.io/s/react-router-with-nav-zud3zq)
 
 
