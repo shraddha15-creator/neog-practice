@@ -18,7 +18,9 @@
 
 [useContext: theme toggler](https://codesandbox.io/s/dark-mode-final-usecontext-dkch1k?file=/src/Nav.jsx)
 
-[useHook: *Custom Hook*](https://codesandbox.io/s/usehook-custom-hook-zq0c5e)
+[*Custom Hook*: useHook()](https://codesandbox.io/s/usehook-custom-hook-zq0c5e)
+
+[*Custom Hook*: useAsync()](https://codesandbox.io/s/useasync-customhook-exercise-ukvj0y)
 
 [react router](https://codesandbox.io/s/react-router-with-nav-zud3zq)
 
