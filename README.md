@@ -24,6 +24,8 @@
 
 [useReducer(): *counter*](https://codesandbox.io/s/counter-usereducer-w4ckyh)
 
+[useReducer(): *counter with context*](https://codesandbox.io/s/counter-usereducer-w4ckyh?file=/src/counter-context.js)
+
 [react router](https://codesandbox.io/s/react-router-with-nav-zud3zq)
 
 
