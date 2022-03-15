@@ -54,7 +54,12 @@
 
 [Dark-light Mode](https://codesandbox.io/s/dark-light-mode-usestate-75xswr)
 
+### useEffect()
+
+[load data on click](https://codesandbox.io/s/load-data-onclick-neog-live-l47eei)
 
 ### useContext()
 
 [theme changer](https://codesandbox.io/s/theme-changer-practice-yxu0v2)
+
+
