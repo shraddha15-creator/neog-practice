@@ -58,6 +58,8 @@
 
 [load data on click](https://codesandbox.io/s/load-data-onclick-neog-live-l47eei)
 
+[load Products data](https://codesandbox.io/s/load-products-fetch-useeffect-0ordy0?file=/src/App.js)
+
 ### useContext()
 
 [theme changer](https://codesandbox.io/s/theme-changer-practice-yxu0v2)
