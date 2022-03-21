@@ -64,4 +64,6 @@
 
 [theme changer](https://codesandbox.io/s/theme-changer-practice-yxu0v2)
 
+### useReducer()
 
+[End Game](https://codesandbox.io/s/endgame-usereducer-inprogress-coqein?file=/src/components/FakeDataComponent.js)
