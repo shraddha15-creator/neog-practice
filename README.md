@@ -75,6 +75,6 @@ ________________________________________________________________________________
 
 ## Question Of the Day
 
-| Date  | Question 1 Link | Question 2 Link | Question 3 Link |
+| Date  | Question 1 Solution Link | Question 2 Solution Link | Question 3 Solution Link |
 | ------------- | ------------- |----------| ---------------|
 | 12 April 2022  |  [Q1](https://codesandbox.io/s/12-april-q1-814jqt)  | [Q2](https://codesandbox.io/s/12-april-q2-prcgdg) | [Q3](https://codesandbox.io/s/12-april-q3-svzl8f)
