@@ -4,6 +4,8 @@
 
 [async JS](https://codesandbox.io/s/async-js-neog-practice-fgqo0c)
 
+[Practice with Akanksha: ES6/FP](https://codesandbox.io/s/es6-fp-r5zeqj?file=/src/index.js)
+
 [callback, promises, async-await](https://codesandbox.io/s/promises-neog-l03435?file=/src/index.js)
 
 [Functional Programming](https://codesandbox.io/s/functional-programming-neog-tbzjor?file=/src/index.js)
