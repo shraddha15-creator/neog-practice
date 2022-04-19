@@ -24,6 +24,8 @@
 
 [*Custom Hook*: useAsync()](https://codesandbox.io/s/useasync-customhook-exercise-ukvj0y)
 
+[useReducer(): *Live ex*](https://codesandbox.io/s/usereducer-exercise-dhz50v)
+
 [useReducer(): *counter*](https://codesandbox.io/s/counter-usereducer-w4ckyh)
 
 [useReducer(): *counter with context*](https://codesandbox.io/s/counter-usereducer-w4ckyh?file=/src/counter-context.js)
