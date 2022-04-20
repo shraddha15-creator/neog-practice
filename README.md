@@ -98,4 +98,4 @@ ________________________________________________________________________________
 ## Interview Prep - Concepts
 
 
-[Mix Concepts](https://codesandbox.io/s/js-concepts-h1uouz0 
+[Mix Concepts](https://codesandbox.io/s/js-concepts-h1uouz)
