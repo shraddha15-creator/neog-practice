@@ -99,3 +99,5 @@ ________________________________________________________________________________
 
 
 [Mix Concepts](https://codesandbox.io/s/js-concepts-h1uouz)
+
+[.call()  .apply()  .bind()  ](https://codesandbox.io/s/call-bind-apply-y8zqt8)
