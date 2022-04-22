@@ -103,3 +103,5 @@ ________________________________________________________________________________
 [.call()  .apply()  .bind()  ](https://codesandbox.io/s/call-bind-apply-y8zqt8)
 
 [21-April-practice: *scope-closure-currying-hoisting-this-call-apply-bind*](https://codesandbox.io/s/scope-closure-currying-hoisting-this-call-apply-bind-practice-8ubo4z)
+
+[React practice: *counter, todo, api-call: async-await*](https://codesandbox.io/s/react-practice-9ddlyy)
